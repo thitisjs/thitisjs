@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there, I'm Mathis - aka [Thitis.js][website] 👋 
 
-<!--
-**thitisjs/thitisjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a French Young Developer !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Check out my  actual work: [Sprint Racing !][course]!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Learn more about web3 and all of my skills
+- ⚡ Sport fact: I love swimming
+
+
+### Connect with me:
+[![My Skills](https://skillicons.dev/icons?i=twitter)][twitter] [![My Skills](https://skillicons.dev/icons?i=discord)][discord] [![My Skills](https://skillicons.dev/icons?i=instagram)][instagram]
+
+
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,bots,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,heroku,mongodb,netlify,vscode&theme=dark)](https://skillicons.dev)
+
+<br />
+<br />
+
+---
+
+
+
+[website]: https://thitisjs.netlify.app
+[course]: http://sprint-racing.netlify.app
+[twitter]: https://twitter.com/thitis_js
+[discord]:  https://discord.gg/WgYkHMWaTw
+[instagram]: https://instagram.com/thitis.js
