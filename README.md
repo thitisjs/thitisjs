@@ -3,14 +3,13 @@
 
 ## I'm a French Young Developer !!
 
-- 🔭 Check out my  actual work: [Sprint Racing !][course]!
+- 🔭 Check out my  actual work: [Sprint Racing ][course]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3 and all of my skills
 - ⚡ Sport fact: I love swimming
 
 
-### Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=twitter)][twitter] [![My Skills](https://skillicons.dev/icons?i=discord)][discord] [![My Skills](https://skillicons.dev/icons?i=instagram)][instagram]
+
 
 
 ### Languages and Tools:
@@ -18,8 +17,19 @@
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,bots,nodejs&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=idea,heroku,mongodb,netlify,vscode&theme=dark)](https://skillicons.dev)
 
-<br />
-<br />
+
+### Learning in progress:
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,docker,linux,mysql,php,scss)](https://skillicons.dev)
+
+
+
+
+### Connect with me:
+[![My Skills](https://skillicons.dev/icons?i=twitter)][twitter] [![My Skills](https://skillicons.dev/icons?i=discord)][discord] [![My Skills](https://skillicons.dev/icons?i=instagram)][instagram]
+
+</br>
+</br>
 
 ---
 
