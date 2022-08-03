@@ -33,6 +33,9 @@
 
 ---
 
+### Github Stats:
+
+![Thitis's GitHub stats](https://github-readme-stats.vercel.app/api?username=thitisjs&show_icons=true&theme=dracula)
 
 
 [website]: https://thitisjs.netlify.app
