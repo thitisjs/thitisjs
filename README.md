@@ -4,7 +4,7 @@
 ## I'm a French Young Developer !!
 
 - 🔭 Check out my  actual work: [Sprint Racing ][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning SASS 
 - 🥅 2022 Goals: Learn more about web3 and all of my skills
 - ⚡ Sport fact: I love swimming
 
